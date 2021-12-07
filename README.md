@@ -6,6 +6,8 @@ Baza danych powstała w celu usprawnienia działania serwisu rowerowego. Baza ma
 ## Instalacja
 1. Pobierz `Serwis-Rowerowy.accdb`
 2. Otwórz za pomocą programu Microsoft Access
+## Dokumentacja
+Dokumentacja na temat projektu znajduje się w pliku `DokumentacjaBazyDanych.pdf`.
 ## Autorzy
 - Jakub Karalus
 - Kamil Karasiewicz
